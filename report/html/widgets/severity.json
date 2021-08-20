@@ -1,0 +1,111 @@
+[ {
+  "uid" : "1b78591bfb5b8696",
+  "name" : "test_meirijingxuan[case_data0]",
+  "time" : {
+    "start" : 1628733005224,
+    "stop" : 1628733005398,
+    "duration" : 174
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "14a013ab3b923cb6",
+  "name" : "test_get_alias_by_app_key[case_data0]",
+  "time" : {
+    "start" : 1628733014855,
+    "stop" : 1628733015009,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a9c5acc0d5a0617",
+  "name" : "test_edugao[case_data0]",
+  "time" : {
+    "start" : 1628732995679,
+    "stop" : 1628732995766,
+    "duration" : 87
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "87eeb4769abc0fee",
+  "name" : "test_vip_goods_of_yueka[case_data0]",
+  "time" : {
+    "start" : 1628733025672,
+    "stop" : 1628733025794,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5e31392657681f8",
+  "name" : "test_first_in[case_data0]",
+  "time" : {
+    "start" : 1628733025201,
+    "stop" : 1628733025288,
+    "duration" : 87
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ed5251ff0d47872f",
+  "name" : "test_get_coupon[case_data0]",
+  "time" : {
+    "start" : 1628733025319,
+    "stop" : 1628733025657,
+    "duration" : 338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bd6772e85a87771",
+  "name" : "test_famous_list[case_data0]",
+  "time" : {
+    "start" : 1627542539964,
+    "stop" : 1627542539964,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f5ee8dc94bf1d375",
+  "name" : "test_vip_info[case_data0]",
+  "time" : {
+    "start" : 1628733035304,
+    "stop" : 1628733035389,
+    "duration" : 85
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d76be8801f410d0",
+  "name" : "test_api[case_data0]",
+  "time" : {
+    "start" : 1627461345116,
+    "stop" : 1627461363006,
+    "duration" : 17890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c09e69242cd87fed",
+  "name" : "test_acquire[case_data0]",
+  "time" : {
+    "start" : 1628733015013,
+    "stop" : 1628733015780,
+    "duration" : 767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7e95c126cc35ba3",
+  "name" : "test_youxuantuijian[case_data0]",
+  "time" : {
+    "start" : 1628733014742,
+    "stop" : 1628733014823,
+    "duration" : 81
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,198 @@
+import json
+import os
+import urllib.parse
+import logging
+from ruamel import yaml
+from script.mkDir import mk_dir
+from setupMain import project_path
+from config.confManage import dir_manage,host_manage
+import time
+
+# pre_path: 是依赖的链接
+# rele_depend: 判断是否需要转换参数的字段
+# rele: 依赖的字段
+# depend: 是否需要依赖
+def write_case_yml(har_path,depend,rele,rele_depend):
+    """
+    循环读取导出文件
+    :param har_path: Charles导出文件路径
+    :return:
+    """
+    har_list = os.listdir(har_path)
+    case_file_list = []
+
+    for i in har_list:
+        if 'chlsj' in i:
+            with open(har_path+'/'+str(i), 'r', encoding='utf-8') as f:
+                logging.debug("从%s目录下，读取文件%s" % (har_path, i))
+                har_cts = json.loads(f.read())
+                har_ct = har_cts[0]
+                case_list = dict()
+                scheme = har_ct["scheme"]
+                method = har_ct["method"]
+                path = har_ct["path"]
+                title = path.split("/")[-1]
+                info_id = "test_" + title + "_01"
+                parameter_type = har_ct["request"]["mimeType"]
+                parameter = dict()
+                try:
+                    if method in 'POST':
+                        parameter_list = urllib.parse.unquote(har_ct["request"]["body"]["text"])
+                    else:
+                        parameter_list = har_ct["query"]
+                    if parameter_list == None:
+                        parameter = {'time':int(time.time())}
+                    elif "&" in parameter_list:
+                        for key in parameter_list.split("&"):
+                            val = key.split("=")
+                            parameter[val[0]] = val[1]
+                    elif "=" in parameter_list:
+                        val = parameter_list.split("=")
+                        parameter[val[0]] = val[1]
+                    else:
+                        parameter = json.loads(parameter_list)
+
+                except Exception as e:
+                    logging.error("未找到parameter: %s" % e)
+                    parameter = {'time':int(time.time())}
+                    # raise e
+
+                case_path = project_path + dir_manage('${page_dir}$') + path.split("/")[-2]
+                mk_dir(case_path)
+
+                response_code = har_ct["response"]["status"]
+                response_body = har_ct["response"]["body"]["text"]
+                test_info = dict()
+                test_info["id"] = info_id
+                test_info["title"] = path.split("/")[-2]
+                test_info["host"] = host_manage('${host}$')
+                test_info["address"] = path
+
+                # 定义checkout
+                check = dict()
+                check["check_type"] = 'json'
+                check["expected_code"] = response_code
+                expected_request = json.loads(response_body)
+                result_file = 'result_' + title + '.json'
+                # result参数大于4时，写入result.json中
+                if len(expected_request) >= 2:
+                    if result_file in os.listdir(case_path):
+                        pass
+                    else:
+                        result_list = []
+                        result_dicts = dict()
+                        with open(case_path + '/' + result_file, "w", encoding='utf-8') as ff:
+                            result_dicts["test_name"] = title
+                            result_dicts["json"] = expected_request
+                            result_list.append(result_dicts)
+                            json.dump(result_list, ff, ensure_ascii=False, indent=4)
+                    check["expected_request"] = result_file
+
+                else:
+                    check["expected_request"] = expected_request
+                param_file = case_path + '/' + title + '.json'
+                test_case_list = []
+                test_case = dict()
+                test_case_list.append(test_case)
+
+                head = har_ct['request']['header']['headers']
+                lis1 = []
+                lis2 = []
+                for he in head:
+                    key = he['name'].strip(':')
+                    value = he['value']
+                    lis1.append(key)
+                    lis2.append(value)
+                header = dict(zip(lis1, lis2))
+
+
+                # para参数大于等于4时，参数文件单独写入json中
+                # if len(parameter) >= 4:
+                #     if title + '.json' in os.listdir(case_path):
+                #         pass
+                #     else:
+                #         new_dicts = dict()
+                #         new_list = []
+                #         with open(param_file, "w", encoding='utf-8') as fs:
+                #             new_dicts["test_name"] = title
+                #             new_dicts["parameter"] = parameter
+                #             new_list.append(new_dicts)
+                #             json.dump(new_list, fs, ensure_ascii=False, indent=4)
+                #
+                #     test_case["test_name"] = title
+                #     test_case["info"] = title
+                #     test_case["http_type"] = scheme
+                #     test_case["request_type"] = method
+                #     test_case["parameter_type"] = parameter_type
+                #     test_case["address"] = path
+                #     test_case["headers"] = header
+                #     test_case["cookies"] = True
+                #     test_case["timeout"] = 20
+                #     test_case["parameter"] = title + '.json'
+                #     test_case["file"] = False
+                #     test_case["check"] = check
+                #     test_case["relevance"] = 'None'
+                #     test_case["depend"] = depend
+                #     test_case["rele_depend"] = rele_depend
+
+                # else:
+                test_case["test_name"] = title
+                test_case["info"] = title
+                test_case["http_type"] = scheme
+                test_case["request_type"] = method
+                test_case["parameter_type"] = parameter_type
+                test_case["address"] = path
+
+                test_case["headers"] = header
+
+                test_case["cookies"] = True
+                test_case["timeout"] = 20
+                test_case["parameter"] = parameter
+                test_case["file"] = False
+                test_case["check"] = check
+                test_case["relevance"] = 'None'
+                test_case["depend"] = depend
+                test_case["rele_depend"] = rele_depend
+
+                case_list["test_info"] = test_info
+
+
+                if depend == True:
+                    test_case_prem = dict()
+                    test_case_prem["test_name"] = title
+                    test_case_prem["info"] = title
+                    test_case_prem["http_type"] = scheme
+                    test_case_prem["request_type"] = method
+                    test_case_prem["parameter_type"] = parameter_type
+                    test_case_prem["address"] = dir_manage('${prepath_dir}$')
+                    test_case_prem["headers"] = header
+                    test_case_prem["cookies"] = True
+                    test_case_prem["timeout"] = 20
+                    test_case_prem["parameter"] = parameter
+                    test_case_prem["file"] = False
+                    test_case_prem["relevance"] = rele
+                    case_list["premise"] =[
+                        test_case_prem
+                    ]
+                else:
+                    case_list["premise"] = 'None'
+
+
+                # case_list["premise"] = ['http://api:652615:com/liuyi/rest76/pay/ticket']
+                case_list["test_case"] = test_case_list
+
+
+                case_file = case_path + '/' + title + '.yml'
+                if title + '.yml' in os.listdir(case_path):
+                    pass
+                else:
+                    with open(case_path + '/' + title + '.yml', 'w+', encoding='utf-8') as ff:
+                        case_file_list.append(path.split("/")[-2]+'/'+title)
+                        logging.debug("从%s目录下，写入测试文件%s" % (case_path, case_file))
+                        yaml.dump(case_list, ff, Dumper=yaml.RoundTripDumper)
+    return case_file_list
+
+
+if __name__ == '__main__':
+    path = r'F:\pythoncode\learn_pytest_20200720\data'
+    print(write_case_yml(path, depend=True))

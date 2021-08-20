@@ -1,0 +1,95 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('depend', <FixtureRequest for <Function test_famous_list[case_data0]>>)",
+      "children" : [ {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "8bd6772e85a87771",
+        "parentUid" : "59034cbf32dd3baf94a5a82394e562a5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542539964,
+          "stop" : 1627542539964,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'None'}" ]
+      } ],
+      "uid" : "59034cbf32dd3baf94a5a82394e562a5"
+    }, {
+      "name" : "Exception: http状态码错误！\n 401 != 200",
+      "children" : [ {
+        "name" : "test_edugao[case_data0]",
+        "uid" : "8a9c5acc0d5a0617",
+        "parentUid" : "5075dcc47d81328749760693d50c69ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732995679,
+          "stop" : 1628732995766,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'edugao', 'info': 'edugao', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/edugao', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628157076}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_edugao.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "1b78591bfb5b8696",
+        "parentUid" : "5075dcc47d81328749760693d50c69ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733005224,
+          "stop" : 1628733005398,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628151452}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_youxuantuijian[case_data0]",
+        "uid" : "c7e95c126cc35ba3",
+        "parentUid" : "5075dcc47d81328749760693d50c69ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733014742,
+          "stop" : 1628733014823,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'youxuantuijian', 'info': 'youxuantuijian', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/youxuantuijian', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_youxuantuijian.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_first_in[case_data0]",
+        "uid" : "a5e31392657681f8",
+        "parentUid" : "5075dcc47d81328749760693d50c69ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733025201,
+          "stop" : 1628733025288,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'first_in', 'info': 'first_in', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/first_in', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_first_in.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_vip_info[case_data0]",
+        "uid" : "f5ee8dc94bf1d375",
+        "parentUid" : "5075dcc47d81328749760693d50c69ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733035304,
+          "stop" : 1628733035389,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'vip_info', 'info': 'vip_info', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/vip_info', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_info.json'}, 'relevance': 'None', 'depend': False}" ]
+      } ],
+      "uid" : "5075dcc47d81328749760693d50c69ca"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

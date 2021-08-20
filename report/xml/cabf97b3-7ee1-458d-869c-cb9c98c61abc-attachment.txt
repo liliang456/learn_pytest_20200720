@@ -1,0 +1,28 @@
+INFO     root:initializePremise.py:18 执行测试用例前置接口
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'aaa': '123'}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：famous_list
+INFO     root:apiSend.py:41 请求头: {'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1'}
+INFO     root:apiSend.py:42 请求参数: {'aaa': '123'}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "GET /liuyi/rest79/user/first_in?aaa=123 HTTP/1.1" 200 53
+INFO     root:apiSend.py:89 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+DEBUG    root:readResultRelevance.py:17 从返回结果中根据关联键['type']提取值
+DEBUG    root:readResultRelevance.py:65 提取后，关联键对象
+{'type': 1}
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'X-Liuyi-App-Key': '56a4e68905234a46f413f7011376d2e0', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'pageNo': '1', 'pageSize': '5', 'type': 1}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：famous_list
+INFO     root:apiSend.py:41 请求头: {'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'X-Liuyi-App-Key': '56a4e68905234a46f413f7011376d2e0', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A'}
+INFO     root:apiSend.py:42 请求参数: {'pageNo': '1', 'pageSize': '5', 'type': 1}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "GET /liuyi/rest72/home/famous_list?pageNo=1&pageSize=5&type=1 HTTP/1.1" 200 2933
+INFO     root:apiSend.py:89 请求接口结果：
+ (200, {'code': 200, 'data': [{'cover': 'http://image.652615.com/2020/10/cc069bbbaae24043947c072758a3d23a.png', 'detail': '手机认证 放心到账', 'id': '1036060062887886848', 'loanMax': 60000, 'loanMin': 5000, 'loanTerm': '三个月', 'loanUrl': 'https://nnyjapi.chaojibaobei.net/api/c/qrvz', 'logo': 'http://image.652615.com/2021/07/a472f381880d47f2b5cefde5acc44f6e.png', 'numbers': 7566, 'passing': 0, 'rate': 0.03, 'rateType': 0, 'seal': '会员专享贷', 'sealLogo': 'http://image.652615.com/2021/05/dbb6926c4134493788e72b5e59f91bab.png', 'termMax': 3, 'termMaxType': 0, 'termMin': 1, 'termMinType': 0, 'title': '融银分期', 'vipLimit': 0}, {'cover': 'http://image.652615.com/2021/06/c38164a603134cb297d82b2d0187b804.png', 'detail': '全新口子，资金充足', 'id': '1037091369302540288', 'loanMax': 100000, 'loanMin': 4000, 'loanTerm': '三个月', 'loanUrl': 'https://xyqb-app.scyouka.cn/?invite=Ep3vzd&channel=jzEqzy', 'logo': 'http://image.652615.com/2021/07/e960660d35ff488d9dd36be8346ad1e9.png', 'numbers': 3882, 'passing': 0, 'rate': 0.02, 'rateType': 0, 'seal': '会员大额贷', 'sealLogo': 'http://image.652615.com/2020/09/5295059a529d40a7ad95fca6bc56c085.png', 'termMax': 3, 'termMaxType': 0, 'termMin': 1, 'termMinType': 0, 'title': '信用优享', 'vipLimit': 0}, {'cover': 'http://image.652615.com/2020/10/55fb0100c27342dc9c959ffb1a7a5885.png', 'detail': '大额度 快速审核', 'id': '1060946072540250112', 'loanMax': 20000, 'loanMin': 2000, 'loanTerm': '12', 'loanUrl': 'https://jsfk.h5.xuejiefq.com/#/dc?push_str=sd123', 'logo': 'http://image.652615.com/2021/07/a9dec031b1f44cf8ad8ee931e154a308.png', 'numbers': 6722, 'passing': 0, 'rate': 0.02, 'rateType': 0, 'seal': '会员助力贷', 'sealLogo': 'http://image.652615.com/2020/12/eed3abe9bf364c32b700799fbcafacf2.png', 'termMax': 12, 'termMaxType': 1, 'termMin': 1, 'termMinType': 1, 'title': '极速放款', 'vipLimit': 0}, {'cover': 'http://image.652615.com/2020/07/a83dfdc77fb44a41a8f7a8f788dff81e.png', 'detail': '今日申请，线上审核', 'id': '1058839024428089344', 'loanMax': 50000, 'loanMin': 2000, 'loanTerm': '12', 'loanUrl': 'http://d.ryfcn.com/qj73', 'logo': 'http://image.652615.com/2021/07/8a2b4cb86fe5490da47b2e40878de8e4.png', 'numbers': 7929, 'passing': 0, 'rate': 0.02, 'rateType': 1, 'seal': '会员专享', 'sealLogo': 'http://image.652615.com/2021/04/edf7132ba7454c0e9f4d21d9cb6feef6.png', 'termMax': 12, 'termMaxType': 1, 'termMin': 1, 'termMinType': 1, 'title': '开薪优品', 'vipLimit': 0}, {'cover': 'http://image.652615.com/2020/09/3efb8650361f44a2834e8324f05217d2.png', 'detail': '好额度 免征信', 'id': '1037087330611412992', 'loanMax': 45000, 'loanMin': 5000, 'loanTerm': '三个月', 'loanUrl': 'https://ysfq.shxyit.cn/74NkSm', 'logo': 'http://image.652615.com/2021/07/f3ea5862d17a4694b36afc4b606a18d6.png', 'numbers': 10642, 'passing': 0, 'rate': 0.02, 'rateType': 0, 'seal': '会员专属贷', 'sealLogo': 'http://image.652615.com/2020/09/3295041c3f814941b843e7a5fb60269c.png', 'termMax': 3, 'termMaxType': 0, 'termMin': 1, 'termMinType': 0, 'title': '嘀嗒分期-极速', 'vipLimit': 0}], 'message': ''})

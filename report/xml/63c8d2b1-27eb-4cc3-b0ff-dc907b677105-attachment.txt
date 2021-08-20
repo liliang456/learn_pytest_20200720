@@ -1,0 +1,48 @@
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'aaa': 'bbb'}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：first_in
+INFO     root:apiSend.py:41 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+INFO     root:apiSend.py:42 请求参数: {'aaa': 'bbb'}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 401 49
+INFO     root:apiSend.py:89 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'aaa': 'bbb'}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：first_in
+INFO     root:apiSend.py:41 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+INFO     root:apiSend.py:42 请求参数: {'aaa': 'bbb'}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 401 49
+INFO     root:apiSend.py:89 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'aaa': 'bbb'}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：first_in
+INFO     root:apiSend.py:41 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+INFO     root:apiSend.py:42 请求参数: {'aaa': 'bbb'}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 401 49
+INFO     root:apiSend.py:89 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'aaa': 'bbb'}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：first_in
+INFO     root:apiSend.py:41 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+INFO     root:apiSend.py:42 请求参数: {'aaa': 'bbb'}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 401 49
+INFO     root:apiSend.py:89 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})

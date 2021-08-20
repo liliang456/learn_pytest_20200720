@@ -1,0 +1,542 @@
+2021-08-03 13:54:46,850 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 13:54:46,916 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-08-03 13:54:46,928 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 13:54:46,934 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable
+2021-08-03 13:56:00,642 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 13:56:00,642 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 13:56:00,643 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件kkk.chlsj
+2021-08-03 13:59:48,572 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 13:59:48,573 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 13:59:48,573 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable
+2021-08-03 14:00:23,905 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 14:00:23,905 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 14:00:23,905 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件kkk.chlsj
+2021-08-03 14:01:37,689 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 14:01:37,689 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 14:01:37,690 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件kkk.chlsj
+2021-08-03 14:03:07,860 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 14:03:07,860 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 14:03:07,861 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable
+2021-08-03 14:39:47,422 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 14:39:47,423 - writeCaseYaml.py - ERROR: 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-08-03 14:40:18,742 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 14:40:18,743 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-08-03 14:40:18,743 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 14:40:18,744 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable
+2021-08-03 15:39:20,784 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 15:39:20,784 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-08-03 15:39:20,785 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 15:39:20,785 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable
+2021-08-03 16:01:27,449 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 16:01:27,450 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-08-03 16:01:27,451 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 16:01:27,452 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable
+2021-08-03 17:39:54,448 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-08-03 17:39:54,449 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-08-03 17:39:54,450 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-08-03 17:39:54,450 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/user
+2021-08-03 17:39:54,451 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件kkk.chlsj
+2021-08-03 17:39:54,451 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-08-03 17:39:58,675 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:39:58,676 - apiSend.py - DEBUG: 请求头处理结果：{'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:39:58,701 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:39:58,702 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:39:58,702 - apiSend.py - INFO: 请求接口：famous_list
+2021-08-03 17:39:58,702 - apiSend.py - INFO: 请求头: {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:39:58,702 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:39:58,703 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:39:58,708 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:39:58,768 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest72/home/famous_list?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:39:58,782 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:01,992 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:01,993 - apiSend.py - DEBUG: 请求头处理结果：{'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:40:01,993 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:01,994 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:01,994 - apiSend.py - INFO: 请求接口：famous_list
+2021-08-03 17:40:01,995 - apiSend.py - INFO: 请求头: {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:40:01,995 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:01,996 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:02,002 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:02,066 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest72/home/famous_list?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:02,068 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:05,103 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:05,104 - apiSend.py - DEBUG: 请求头处理结果：{'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:40:05,105 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:05,105 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:05,105 - apiSend.py - INFO: 请求接口：famous_list
+2021-08-03 17:40:05,106 - apiSend.py - INFO: 请求头: {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:40:05,107 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:05,107 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:05,113 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:05,170 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest72/home/famous_list?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:05,172 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:08,206 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:08,207 - apiSend.py - DEBUG: 请求头处理结果：{'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:40:08,207 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:08,208 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:08,208 - apiSend.py - INFO: 请求接口：famous_list
+2021-08-03 17:40:08,209 - apiSend.py - INFO: 请求头: {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-cn', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest72.652615.com', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F'}
+2021-08-03 17:40:08,209 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:08,210 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:08,216 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:08,273 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest72/home/famous_list?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:08,276 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:08,303 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:08,304 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:08,304 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:08,304 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:08,305 - apiSend.py - INFO: 请求接口：meirijingxuan
+2021-08-03 17:40:08,305 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:08,305 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:08,306 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:08,309 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:08,365 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest79/home/meirijingxuan?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:08,367 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:11,491 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:11,492 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:11,493 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:11,493 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:11,493 - apiSend.py - INFO: 请求接口：meirijingxuan
+2021-08-03 17:40:11,494 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:11,494 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:11,495 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:11,501 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:11,546 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest79/home/meirijingxuan?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:11,548 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:14,585 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:14,586 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:14,587 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:14,587 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:14,587 - apiSend.py - INFO: 请求接口：meirijingxuan
+2021-08-03 17:40:14,588 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:14,589 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:14,589 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:14,595 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:16,047 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest79/home/meirijingxuan?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:16,049 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:40:19,081 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:40:19,082 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:19,083 - apiSend.py - DEBUG: 请求参数处理结果：{'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:19,083 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:40:19,084 - apiSend.py - INFO: 请求接口：meirijingxuan
+2021-08-03 17:40:19,084 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}
+2021-08-03 17:40:19,085 - apiSend.py - INFO: 请求参数: {'pageNo': '1', 'pageSize': '3'}
+2021-08-03 17:40:19,086 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:40:19,091 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:40:19,135 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest79/home/meirijingxuan?pageNo=1&pageSize=3 HTTP/1.1" 401 49
+2021-08-03 17:40:19,138 - apiSend.py - INFO: 请求接口结果：
+ (401, {'code': 401, 'data': None, 'message': '非法 token'})
+2021-08-03 17:47:15,902 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件first.chlsj
+2021-08-03 17:47:15,904 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/page/user目录下，写入测试文件F:/pythoncode/learn_pytest_20200720/page/user/first_in.yml
+2021-08-03 17:47:15,912 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件second.chlsj
+2021-08-03 17:47:15,913 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/user
+2021-08-03 17:47:15,915 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/page/user目录下，写入测试文件F:/pythoncode/learn_pytest_20200720/page/user/vip_info.yml
+2021-08-03 17:47:15,948 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/testcase/user
+2021-08-03 17:47:17,073 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:17,073 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:17,073 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:17,073 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:17,073 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:17,074 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:47:17,074 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:17,074 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:17,074 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:17,076 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:17,167 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:47:17,168 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:47:17,168 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:17,168 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:20,267 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:20,268 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:20,268 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:20,268 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:20,269 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:20,269 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:47:20,269 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:20,269 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:20,270 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:20,274 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:20,366 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:47:20,367 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:47:20,367 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:20,367 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:23,376 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:23,376 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:23,376 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:23,377 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:23,377 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:23,377 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:47:23,377 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:23,377 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:23,377 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:23,379 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:23,474 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:47:23,475 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:47:23,476 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:23,476 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:26,485 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:26,486 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:26,486 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:26,486 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:26,486 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:26,487 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:47:26,487 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:26,487 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:26,488 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:26,491 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:26,570 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:47:26,572 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:47:26,572 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:26,573 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:26,590 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:26,591 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:26,591 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:26,591 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:26,591 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:26,592 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:47:26,592 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:26,592 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:26,593 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:26,595 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:26,755 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:47:26,756 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:47:26,757 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:26,757 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:29,767 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:29,768 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:29,769 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:29,770 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:29,770 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:29,771 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:47:29,771 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:29,772 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:29,773 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:29,778 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:29,943 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:47:29,945 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:47:29,946 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:29,946 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:32,963 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:32,963 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:32,963 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:32,964 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:32,964 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:32,964 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:47:32,964 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:32,965 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:32,965 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:32,967 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:33,144 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:47:33,147 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:47:33,147 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:33,148 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:47:36,165 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:47:36,165 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:47:36,166 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:36,166 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:47:36,166 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:47:36,166 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:47:36,167 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:47:36,167 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:47:36,167 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:47:36,170 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:47:36,324 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:47:36,325 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:47:36,325 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:47:36,326 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:39,824 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件first.chlsj
+2021-08-03 17:50:39,824 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/user
+2021-08-03 17:50:39,825 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件second.chlsj
+2021-08-03 17:50:39,826 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/user
+2021-08-03 17:50:40,661 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:40,661 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:40,661 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:40,661 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:40,661 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:40,661 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:50:40,661 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:40,662 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:40,662 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:40,665 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:40,754 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:50:40,755 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:50:40,755 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:40,755 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:43,831 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:43,832 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:43,832 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:43,832 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:43,832 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:43,832 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:50:43,833 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:43,833 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:43,833 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:43,835 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:43,928 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:50:43,929 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:50:43,930 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:43,930 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:46,938 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:46,939 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:46,940 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:46,940 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:46,941 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:46,941 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:50:46,941 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:46,942 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:46,943 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:46,948 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:47,051 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:50:47,053 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:50:47,054 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:47,054 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:50,072 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:50,072 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:50,073 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:50,073 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:50,073 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:50,073 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:50:50,074 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:50,074 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:50,074 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:50,078 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:50,172 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:50:50,173 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:50:50,173 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:50,173 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:50,177 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:50,178 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:50,178 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:50,178 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:50,178 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:50,178 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:50:50,178 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:50,178 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:50,178 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:50,180 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:50,336 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:50:50,338 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:50:50,339 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:50,339 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:53,356 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:53,357 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:53,358 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:53,358 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:53,358 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:53,359 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:50:53,359 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:53,360 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:53,360 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:53,366 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:53,531 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:50:53,533 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:50:53,533 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:53,534 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:56,553 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:56,554 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:56,554 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:56,555 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:56,555 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:56,555 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:50:56,556 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:56,557 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:56,557 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:56,563 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:56,712 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:50:56,715 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:50:56,715 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:56,716 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:50:59,733 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:50:59,734 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:50:59,734 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:59,735 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:50:59,735 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:50:59,736 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:50:59,737 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:50:59,738 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:50:59,738 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:50:59,744 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:50:59,896 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:50:59,899 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:50:59,900 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:50:59,901 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:17,897 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件first.chlsj
+2021-08-03 17:54:17,899 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/page/user目录下，写入测试文件F:/pythoncode/learn_pytest_20200720/page/user/first_in.yml
+2021-08-03 17:54:17,907 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件second.chlsj
+2021-08-03 17:54:17,908 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/user
+2021-08-03 17:54:17,909 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/page/user目录下，写入测试文件F:/pythoncode/learn_pytest_20200720/page/user/vip_info.yml
+2021-08-03 17:54:17,917 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/testcase/user
+2021-08-03 17:54:18,981 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:18,982 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:18,982 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:18,982 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:18,983 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:18,983 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:54:18,983 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:18,984 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:18,984 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:18,992 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:19,255 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:54:19,257 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:54:19,258 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:19,258 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:22,345 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:22,346 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:22,347 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:22,348 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:22,348 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:22,349 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:54:22,349 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:22,349 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:22,350 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:22,355 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:22,533 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:54:22,535 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:54:22,536 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:22,537 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:25,559 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:25,560 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:25,561 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:25,561 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:25,562 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:25,562 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:54:25,563 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:25,563 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:25,564 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:25,569 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:25,796 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:54:25,799 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:54:25,799 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:25,800 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:28,816 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:28,816 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:28,817 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:28,817 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:28,817 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:28,817 - apiSend.py - INFO: 请求接口：first_in
+2021-08-03 17:54:28,818 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:28,818 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:28,818 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:28,821 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:29,090 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/first_in?aaa=bbb HTTP/1.1" 200 53
+2021-08-03 17:54:29,092 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'first': 0, 'type': 1}, 'message': ''})
+2021-08-03 17:54:29,093 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:29,093 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:29,114 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:29,114 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:29,115 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:29,115 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:29,115 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:29,115 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:54:29,116 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:29,116 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:29,116 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:29,119 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:29,444 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:54:29,446 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:54:29,447 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:29,447 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:32,466 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:32,467 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:32,468 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:32,468 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:32,469 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:32,469 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:54:32,470 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:32,470 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:32,471 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:32,476 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:32,764 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:54:32,766 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:54:32,767 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:32,767 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:35,780 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:35,781 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:35,782 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:35,783 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:35,784 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:35,784 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:54:35,784 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:35,785 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:35,785 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:35,791 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:36,009 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:54:36,011 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:54:36,011 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:36,011 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:54:39,021 - initializePremise.py - INFO: 执行测试用例前置接口
+2021-08-03 17:54:39,023 - apiSend.py - INFO: ================================================================================
+2021-08-03 17:54:39,024 - apiSend.py - DEBUG: 请求头处理结果：{'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:39,024 - apiSend.py - DEBUG: 请求参数处理结果：{'aaa': 'bbb'}
+2021-08-03 17:54:39,025 - apiSend.py - DEBUG: host处理结果： api.652615.com
+2021-08-03 17:54:39,026 - apiSend.py - INFO: 请求接口：vip_info
+2021-08-03 17:54:39,027 - apiSend.py - INFO: 请求头: {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}
+2021-08-03 17:54:39,027 - apiSend.py - INFO: 请求参数: {'aaa': 'bbb'}
+2021-08-03 17:54:39,029 - apiSend.py - INFO: 请求方法: GET
+2021-08-03 17:54:39,037 - connectionpool.py - DEBUG: Starting new HTTP connection (1): api.652615.com:80
+2021-08-03 17:54:39,308 - connectionpool.py - DEBUG: http://api.652615.com:80 "GET /liuyi/rest76/user/vip_info?aaa=bbb HTTP/1.1" 200 68
+2021-08-03 17:54:39,309 - apiSend.py - INFO: 请求接口结果：
+ (200, {'code': 200, 'data': {'avaliable': 0, 'vip': 1, 'vipType': 1}, 'message': ''})
+2021-08-03 17:54:39,309 - readResultRelevance.py - DEBUG: 从返回结果中根据关联键None提取值
+2021-08-03 17:54:39,310 - readResultRelevance.py - DEBUG: 提取后，关联键对象
+{}
+2021-08-03 17:56:44,664 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件first.chlsj
+2021-08-03 17:59:43,715 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件first.chlsj
+2021-08-03 17:59:43,717 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/page/user目录下，写入测试文件F:/pythoncode/learn_pytest_20200720/page/user/first_in.yml
+2021-08-03 17:59:43,723 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件second.chlsj
+2021-08-03 17:59:43,724 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/user
+2021-08-03 17:59:43,726 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/page/user目录下，写入测试文件F:/pythoncode/learn_pytest_20200720/page/user/vip_info.yml
+2021-08-03 17:59:43,732 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/testcase/user

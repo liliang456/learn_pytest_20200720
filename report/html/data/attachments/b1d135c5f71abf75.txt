@@ -1,0 +1,28 @@
+INFO     root:initializePremise.py:18 执行测试用例前置接口
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Connection': 'keep-alive', 'Content-Length': '0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'time': 1628646722}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：get_coupon
+INFO     root:apiSend.py:41 请求头: {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Connection': 'keep-alive', 'Content-Length': '0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}
+INFO     root:apiSend.py:42 请求参数: {'time': 1628646722}
+INFO     root:apiSend.py:53 请求方法: POST
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "POST /liuyi/rest79/pay/ticket HTTP/1.1" 405 72
+INFO     root:apiSend.py:89 请求接口结果：
+ (405, '{"code":405,"data":null,"message":"Request method \'POST\' not supported"}')
+DEBUG    root:readResultRelevance.py:17 从返回结果中根据关联键data提取值
+DEBUG    root:readResultRelevance.py:63 提取后，关联键对象
+{'data': '44f0e72097506893683aa09a29c0ad9c'}
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Connection': 'keep-alive', 'Content-Length': '0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'ticket': '44f0e72097506893683aa09a29c0ad9c', 'time': 1628646722}
+DEBUG    root:apiSend.py:36 host处理结果： api.652615.com
+INFO     root:apiSend.py:39 请求接口：get_coupon
+INFO     root:apiSend.py:41 请求头: {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Connection': 'keep-alive', 'Content-Length': '0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}
+INFO     root:apiSend.py:42 请求参数: {'ticket': '44f0e72097506893683aa09a29c0ad9c', 'time': 1628646722}
+INFO     root:apiSend.py:53 请求方法: POST
+DEBUG    urllib3.connectionpool:connectionpool.py:231 Starting new HTTP connection (1): api.652615.com:80
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://api.652615.com:80 "POST /liuyi/rest79/user/get_coupon HTTP/1.1" 200 35
+INFO     root:apiSend.py:89 请求接口结果：
+ (200, {'code': 200, 'data': {}, 'message': ''})

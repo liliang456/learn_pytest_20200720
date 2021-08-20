@@ -1,0 +1,10 @@
+INFO     root:initializePremise.py:18 执行测试用例前置接口
+INFO     root:apiSend.py:21 ================================================================================
+DEBUG    root:apiSend.py:23 请求头处理结果：{'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}
+DEBUG    root:apiSend.py:25 请求参数处理结果：{'aaa': 'bbb', 'id': '1302425'}
+DEBUG    root:apiSend.py:36 host处理结果： movie.querydata.org
+INFO     root:apiSend.py:39 请求接口：api
+INFO     root:apiSend.py:41 请求头: {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}
+INFO     root:apiSend.py:42 请求参数: {'aaa': 'bbb', 'id': '1302425'}
+INFO     root:apiSend.py:82 请求方法: GET
+DEBUG    urllib3.connectionpool:connectionpool.py:975 Starting new HTTPS connection (1): movie.querydata.org:443

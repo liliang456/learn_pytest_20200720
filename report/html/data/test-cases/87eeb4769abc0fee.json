@@ -1,0 +1,165 @@
+{
+  "uid" : "87eeb4769abc0fee",
+  "name" : "test_vip_goods_of_yueka[case_data0]",
+  "fullName" : "testcase.user.test_vip_goods_of_yueka.TestVipGoodsOfYueka#test_vip_goods_of_yueka",
+  "historyId" : "ab2a9485b389c87c9f266aa979fc7081",
+  "time" : {
+    "start" : 1628733025672,
+    "stop" : 1628733025794,
+    "duration" : 122
+  },
+  "description" : "\n\n        :param case_data: 测试用例\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    :param case_data: 测试用例\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n\n        :param case_data: 测试用例\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET请求接口",
+      "time" : {
+        "start" : 1628733025674,
+        "stop" : 1628733025679,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "546b2fdacbbc63f9",
+        "name" : "请求接口",
+        "source" : "546b2fdacbbc63f9.attach",
+        "type" : "text/plain",
+        "size" : 18
+      }, {
+        "uid" : "b4c94bbc1cc05004",
+        "name" : "请求地址",
+        "source" : "b4c94bbc1cc05004.attach",
+        "type" : "text/plain",
+        "size" : 58
+      }, {
+        "uid" : "5188c755c863e170",
+        "name" : "请求头",
+        "source" : "5188c755c863e170.attach",
+        "type" : "text/plain",
+        "size" : 902
+      }, {
+        "uid" : "c6543d18bb586207",
+        "name" : "请求参数",
+        "source" : "c6543d18bb586207.attach",
+        "type" : "text/plain",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    }, {
+      "name" : "JSON格式校验",
+      "time" : {
+        "start" : 1628733025786,
+        "stop" : 1628733025794,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dd9275b3706954b7",
+        "name" : "期望code",
+        "source" : "dd9275b3706954b7.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "d8ab3b71aca19328",
+        "name" : "期望data",
+        "source" : "d8ab3b71aca19328.attach",
+        "type" : "text/plain",
+        "size" : 916
+      }, {
+        "uid" : "c8f895326370879c",
+        "name" : "实际code",
+        "source" : "c8f895326370879c.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "3f7356ff8d674bba",
+        "name" : "实际data",
+        "source" : "3f7356ff8d674bba.attach",
+        "type" : "text/plain",
+        "size" : 916
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    } ],
+    "attachments" : [ {
+      "uid" : "cc39d31b0e3a879a",
+      "name" : "log",
+      "source" : "cc39d31b0e3a879a.txt",
+      "type" : "text/plain",
+      "size" : 3552
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "user"
+  }, {
+    "name" : "story",
+    "value" : "vip_goods_of_yueka"
+  }, {
+    "name" : "tag",
+    "value" : "flaky(reruns=3, reruns_delay=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.user"
+  }, {
+    "name" : "suite",
+    "value" : "test_vip_goods_of_yueka"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestVipGoodsOfYueka"
+  }, {
+    "name" : "host",
+    "value" : "CFDN-20190518ZE"
+  }, {
+    "name" : "thread",
+    "value" : "440-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.user.test_vip_goods_of_yueka"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case_data",
+    "value" : "{'test_name': 'vip_goods_of_yueka', 'info': 'vip_goods_of_yueka', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/user/vip_goods_of_yueka', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628646865}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_goods_of_yueka.json'}, 'relevance': 'None', 'depend': False, 'rele_depend': 'ticket'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=3, reruns_delay=3)" ]
+  },
+  "source" : "87eeb4769abc0fee.json",
+  "parameterValues" : [ "{'test_name': 'vip_goods_of_yueka', 'info': 'vip_goods_of_yueka', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/user/vip_goods_of_yueka', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628646865}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_goods_of_yueka.json'}, 'relevance': 'None', 'depend': False, 'rele_depend': 'ticket'}" ]
+}

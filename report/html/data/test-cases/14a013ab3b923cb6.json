@@ -1,0 +1,219 @@
+{
+  "uid" : "14a013ab3b923cb6",
+  "name" : "test_get_alias_by_app_key[case_data0]",
+  "fullName" : "testcase.magicnana.test_get_alias_by_app_key.TestGetAliasByAppKey#test_get_alias_by_app_key",
+  "historyId" : "be7004bdf4f2315e38f8bb455b0cd0b1",
+  "time" : {
+    "start" : 1628733014855,
+    "stop" : 1628733015009,
+    "duration" : 154
+  },
+  "description" : "\n\n        :param case_data: 测试用例\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    :param case_data: 测试用例\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n\n        :param case_data: 测试用例\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "接口关联请求",
+      "time" : {
+        "start" : 1628733014855,
+        "stop" : 1628733014910,
+        "duration" : 55
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "GET请求接口",
+        "time" : {
+          "start" : 1628733014857,
+          "stop" : 1628733014861,
+          "duration" : 4
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "f297f912c525ad42",
+          "name" : "请求接口",
+          "source" : "f297f912c525ad42.attach",
+          "type" : "text/plain",
+          "size" : 20
+        }, {
+          "uid" : "dd040854b41e78b0",
+          "name" : "请求地址",
+          "source" : "dd040854b41e78b0.attach",
+          "type" : "text/plain",
+          "size" : 71
+        }, {
+          "uid" : "ce49795762e1b838",
+          "name" : "请求头",
+          "source" : "ce49795762e1b838.attach",
+          "type" : "text/plain",
+          "size" : 902
+        }, {
+          "uid" : "1bd6e660c0d34f6d",
+          "name" : "请求参数",
+          "source" : "1bd6e660c0d34f6d.attach",
+          "type" : "text/plain",
+          "size" : 46
+        } ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    }, {
+      "name" : "GET请求接口",
+      "time" : {
+        "start" : 1628733014969,
+        "stop" : 1628733014972,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "696409acbed5044f",
+        "name" : "请求接口",
+        "source" : "696409acbed5044f.attach",
+        "type" : "text/plain",
+        "size" : 20
+      }, {
+        "uid" : "1201acda0f09b674",
+        "name" : "请求地址",
+        "source" : "1201acda0f09b674.attach",
+        "type" : "text/plain",
+        "size" : 71
+      }, {
+        "uid" : "76a8544508d14de7",
+        "name" : "请求头",
+        "source" : "76a8544508d14de7.attach",
+        "type" : "text/plain",
+        "size" : 902
+      }, {
+        "uid" : "9a884853f4bf6521",
+        "name" : "请求参数",
+        "source" : "9a884853f4bf6521.attach",
+        "type" : "text/plain",
+        "size" : 70
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    }, {
+      "name" : "JSON格式校验",
+      "time" : {
+        "start" : 1628733015007,
+        "stop" : 1628733015009,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5b026cb9ba1418b0",
+        "name" : "期望code",
+        "source" : "5b026cb9ba1418b0.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "9aa4df2cce85a47e",
+        "name" : "期望data",
+        "source" : "9aa4df2cce85a47e.attach",
+        "type" : "text/plain",
+        "size" : 52
+      }, {
+        "uid" : "54bcec22cc0c9524",
+        "name" : "实际code",
+        "source" : "54bcec22cc0c9524.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "3d60c5da03ba5c35",
+        "name" : "实际data",
+        "source" : "3d60c5da03ba5c35.attach",
+        "type" : "text/plain",
+        "size" : 52
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    } ],
+    "attachments" : [ {
+      "uid" : "df4212c85394a33",
+      "name" : "log",
+      "source" : "df4212c85394a33.txt",
+      "type" : "text/plain",
+      "size" : 5896
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "magicnana"
+  }, {
+    "name" : "story",
+    "value" : "get_alias_by_app_key"
+  }, {
+    "name" : "tag",
+    "value" : "flaky(reruns=3, reruns_delay=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.magicnana"
+  }, {
+    "name" : "suite",
+    "value" : "test_get_alias_by_app_key"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetAliasByAppKey"
+  }, {
+    "name" : "host",
+    "value" : "CFDN-20190518ZE"
+  }, {
+    "name" : "thread",
+    "value" : "440-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.magicnana.test_get_alias_by_app_key"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case_data",
+    "value" : "{'address': '/liuyi/cloud/toggle/magicnana/get_alias_by_app_key', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_get_alias_by_app_key.json'}, 'cookies': True, 'depend': True, 'file': False, 'headers': {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 27bd767f5a3e0e4b3c2ae6d7e8334098', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}, 'http_type': 'http', 'info': 'get_alias_by_app_key', 'parameter': {'appKey': '6682119c5d55765c882bd2d9997df2c1', 'data': '芝麻好借'}, 'parameter_type': 'application/x-www-form-urlencoded', 'relevance': 'None', 'request_type': 'GET', 'test_name': 'get_alias_by_app_key', 'timeout': 20}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=3, reruns_delay=3)" ]
+  },
+  "source" : "14a013ab3b923cb6.json",
+  "parameterValues" : [ "{'address': '/liuyi/cloud/toggle/magicnana/get_alias_by_app_key', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_get_alias_by_app_key.json'}, 'cookies': True, 'depend': True, 'file': False, 'headers': {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 27bd767f5a3e0e4b3c2ae6d7e8334098', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}, 'http_type': 'http', 'info': 'get_alias_by_app_key', 'parameter': {'appKey': '6682119c5d55765c882bd2d9997df2c1', 'data': '芝麻好借'}, 'parameter_type': 'application/x-www-form-urlencoded', 'relevance': 'None', 'request_type': 'GET', 'test_name': 'get_alias_by_app_key', 'timeout': 20}" ]
+}

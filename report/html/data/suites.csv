@@ -1,0 +1,55 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Aug 12 09:50:14 CST 2021","Thu Aug 12 09:50:14 CST 2021","81","testcase.home","test_youxuantuijian","TestYouxuantuijian","","","test_youxuantuijian[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"passed","Thu Aug 12 09:50:25 CST 2021","Thu Aug 12 09:50:25 CST 2021","338","testcase.user","test_get_coupon","TestGetCoupon","","","test_get_coupon[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"broken","Thu Jul 29 15:08:59 CST 2021","Thu Jul 29 15:08:59 CST 2021","0","testcase.home","test_famous_list","TestFamousList","","","test_famous_list[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"broken","Thu Aug 12 09:50:35 CST 2021","Thu Aug 12 09:50:35 CST 2021","85","testcase.user","test_vip_info","TestVipInfo","","","test_vip_info[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"passed","Wed Jul 28 16:35:45 CST 2021","Wed Jul 28 16:36:03 CST 2021","17890","testcase","test_api","TestApi","","","test_api[case_data0]","
+        :param case_data: 测试用例
+        :return:
+        "
+"passed","Thu Aug 12 09:50:14 CST 2021","Thu Aug 12 09:50:15 CST 2021","154","testcase.magicnana","test_get_alias_by_app_key","TestGetAliasByAppKey","","","test_get_alias_by_app_key[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"passed","Thu Aug 12 09:50:25 CST 2021","Thu Aug 12 09:50:25 CST 2021","122","testcase.user","test_vip_goods_of_yueka","TestVipGoodsOfYueka","","","test_vip_goods_of_yueka[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"broken","Thu Aug 12 09:50:25 CST 2021","Thu Aug 12 09:50:25 CST 2021","87","testcase.user","test_first_in","TestFirstIn","","","test_first_in[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"broken","Thu Aug 12 09:50:05 CST 2021","Thu Aug 12 09:50:05 CST 2021","174","testcase.home","test_meirijingxuan","TestMeirijingxuan","","","test_meirijingxuan[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"passed","Thu Aug 12 09:50:15 CST 2021","Thu Aug 12 09:50:15 CST 2021","767","testcase.pay","test_acquire","TestAcquire","","","test_acquire[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "
+"broken","Thu Aug 12 09:49:55 CST 2021","Thu Aug 12 09:49:55 CST 2021","87","testcase.home","test_edugao","TestEdugao","","","test_edugao[case_data0]","
+
+        :param case_data: 测试用例
+        :return:
+        "

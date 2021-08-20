@@ -1,0 +1,225 @@
+{
+  "uid" : "5e8add8e8bc3479e",
+  "name" : "test_api[case_data0]",
+  "fullName" : "testcase.test_api.TestApi#test_api",
+  "historyId" : "29368fa8ef4c769e3d1691c3e6403e5c",
+  "time" : {
+    "start" : 1627461234821,
+    "stop" : 1627461241690,
+    "duration" : 6869
+  },
+  "description" : "\n        :param case_data: 测试用例\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    :param case_data: 测试用例\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_value",
+    "time" : {
+      "start" : 1627461231215,
+      "stop" : 1627461234819,
+      "duration" : 3604
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "接口关联请求",
+      "time" : {
+        "start" : 1627461231216,
+        "stop" : 1627461234769,
+        "duration" : 3553
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "GET请求接口",
+        "time" : {
+          "start" : 1627461231216,
+          "stop" : 1627461231218,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "2a36969ad5ea5db2",
+          "name" : "请求接口",
+          "source" : "2a36969ad5ea5db2.attach",
+          "type" : "text/plain",
+          "size" : 3
+        }, {
+          "uid" : "13534768641e00aa",
+          "name" : "请求地址",
+          "source" : "13534768641e00aa.attach",
+          "type" : "text/plain",
+          "size" : 31
+        }, {
+          "uid" : "eb7fd5e959d65050",
+          "name" : "请求头",
+          "source" : "eb7fd5e959d65050.attach",
+          "type" : "text/plain",
+          "size" : 467
+        }, {
+          "uid" : "6246de7383d65394",
+          "name" : "请求参数",
+          "source" : "6246de7383d65394.attach",
+          "type" : "text/plain",
+          "size" : 31
+        } ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  } ],
+  "testStage" : {
+    "description" : "\n        :param case_data: 测试用例\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET请求接口",
+      "time" : {
+        "start" : 1627461234823,
+        "stop" : 1627461234922,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a13dc7389729e85",
+        "name" : "请求接口",
+        "source" : "7a13dc7389729e85.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "a48b68faf2383f2a",
+        "name" : "请求地址",
+        "source" : "a48b68faf2383f2a.attach",
+        "type" : "text/plain",
+        "size" : 45
+      }, {
+        "uid" : "7bb701c32102c9de",
+        "name" : "请求头",
+        "source" : "7bb701c32102c9de.attach",
+        "type" : "text/plain",
+        "size" : 467
+      }, {
+        "uid" : "701dc6608ed7d42a",
+        "name" : "请求参数",
+        "source" : "701dc6608ed7d42a.attach",
+        "type" : "text/plain",
+        "size" : 17
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    }, {
+      "name" : "校验HTTP状态",
+      "time" : {
+        "start" : 1627461241620,
+        "stop" : 1627461241690,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4abc366d2b69f178",
+        "name" : "期望code",
+        "source" : "4abc366d2b69f178.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "ad5af996273b49ed",
+        "name" : "实际code",
+        "source" : "ad5af996273b49ed.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "ee67b8cb7b76769",
+        "name" : "实际data",
+        "source" : "ee67b8cb7b76769.attach",
+        "type" : "text/plain",
+        "size" : 110
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3
+    } ],
+    "attachments" : [ {
+      "uid" : "6c2fd09245e85bfb",
+      "name" : "log",
+      "source" : "6c2fd09245e85bfb.txt",
+      "type" : "text/plain",
+      "size" : 7665
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature"
+  }, {
+    "name" : "story",
+    "value" : "api"
+  }, {
+    "name" : "tag",
+    "value" : "flaky(reruns=3, reruns_delay=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "CFDN-20190518ZE"
+  }, {
+    "name" : "thread",
+    "value" : "14488-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case_data",
+    "value" : "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '09090909090'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=3, reruns_delay=3)" ]
+  },
+  "source" : "5e8add8e8bc3479e.json",
+  "parameterValues" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '09090909090'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+}

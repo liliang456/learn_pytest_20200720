@@ -1,0 +1,243 @@
+{
+  "uid" : "b79799129837def0",
+  "name" : "test_api[case_data0]",
+  "fullName" : "testcase.test_api.TestApi#test_api",
+  "historyId" : "29368fa8ef4c769e3d1691c3e6403e5c",
+  "time" : {
+    "start" : 1627457556986,
+    "stop" : 1627457558194,
+    "duration" : 1208
+  },
+  "description" : "\n        :param case_data: 测试用例\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    :param case_data: 测试用例\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_value",
+    "time" : {
+      "start" : 1627457552865,
+      "stop" : 1627457556983,
+      "duration" : 4118
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "接口关联请求",
+      "time" : {
+        "start" : 1627457552866,
+        "stop" : 1627457556923,
+        "duration" : 4057
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "GET请求接口",
+        "time" : {
+          "start" : 1627457552866,
+          "stop" : 1627457552868,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "21170c2ff88787cc",
+          "name" : "请求接口",
+          "source" : "21170c2ff88787cc.attach",
+          "type" : "text/plain",
+          "size" : 3
+        }, {
+          "uid" : "fb3652a6de407e98",
+          "name" : "请求地址",
+          "source" : "fb3652a6de407e98.attach",
+          "type" : "text/plain",
+          "size" : 31
+        }, {
+          "uid" : "90d6f82168437a9f",
+          "name" : "请求头",
+          "source" : "90d6f82168437a9f.attach",
+          "type" : "text/plain",
+          "size" : 467
+        }, {
+          "uid" : "fcba5106288f3753",
+          "name" : "请求参数",
+          "source" : "fcba5106288f3753.attach",
+          "type" : "text/plain",
+          "size" : 31
+        } ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  } ],
+  "testStage" : {
+    "description" : "\n        :param case_data: 测试用例\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET请求接口",
+      "time" : {
+        "start" : 1627457556989,
+        "stop" : 1627457557088,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f3bc58dc2b827d8d",
+        "name" : "请求接口",
+        "source" : "f3bc58dc2b827d8d.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "240d41408a36da0f",
+        "name" : "请求地址",
+        "source" : "240d41408a36da0f.attach",
+        "type" : "text/plain",
+        "size" : 45
+      }, {
+        "uid" : "f0c813fe5cae3ff6",
+        "name" : "请求头",
+        "source" : "f0c813fe5cae3ff6.attach",
+        "type" : "text/plain",
+        "size" : 467
+      }, {
+        "uid" : "1d29732d10ad549a",
+        "name" : "请求参数",
+        "source" : "1d29732d10ad549a.attach",
+        "type" : "text/plain",
+        "size" : 19
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    }, {
+      "name" : "校验HTTP状态",
+      "time" : {
+        "start" : 1627457558189,
+        "stop" : 1627457558194,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8c45bc05f9206153",
+        "name" : "期望code",
+        "source" : "8c45bc05f9206153.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "c222fa11120f5f10",
+        "name" : "实际code",
+        "source" : "c222fa11120f5f10.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "fecc1f2f9e381a5",
+        "name" : "实际data",
+        "source" : "fecc1f2f9e381a5.attach",
+        "type" : "text/plain",
+        "size" : 154
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3
+    } ],
+    "attachments" : [ {
+      "uid" : "2021b247fd4d3174",
+      "name" : "log",
+      "source" : "2021b247fd4d3174.txt",
+      "type" : "text/plain",
+      "size" : 7715
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 8
+  },
+  "afterStages" : [ {
+    "name" : "get_value::0",
+    "time" : {
+      "start" : 1627457558198,
+      "stop" : 1627457558198,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature"
+  }, {
+    "name" : "story",
+    "value" : "api"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('get_value')"
+  }, {
+    "name" : "tag",
+    "value" : "flaky(reruns=3, reruns_delay=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "CFDN-20190518ZE"
+  }, {
+    "name" : "thread",
+    "value" : "16828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case_data",
+    "value" : "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '909000000'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=3, reruns_delay=3)", "@pytest.mark.usefixtures('get_value')" ]
+  },
+  "source" : "b79799129837def0.json",
+  "parameterValues" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '909000000'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+}

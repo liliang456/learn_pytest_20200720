@@ -1,0 +1,4 @@
+2021-07-30 16:19:17,765 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件999999.chlsj
+2021-07-30 16:19:17,797 - mkDir.py - DEBUG: logs目录已存在：F:/pythoncode/learn_pytest_20200720/page/home
+2021-07-30 16:19:17,798 - writeCaseYaml.py - DEBUG: 从F:/pythoncode/learn_pytest_20200720/data/目录下，读取文件base.chlsj
+2021-07-30 16:19:17,807 - writeCaseYaml.py - ERROR: 未找到parameter: argument of type 'NoneType' is not iterable

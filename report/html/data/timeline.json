@@ -1,0 +1,890 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CFDN-20190518ZE",
+    "children" : [ {
+      "name" : "16772-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "e7e690dca6d90d45",
+        "parentUid" : "eefedfb399e79ec9561f8dbb2f08dfcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627457961439,
+          "stop" : 1627457965108,
+          "duration" : 3669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '1302425'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "eefedfb399e79ec9561f8dbb2f08dfcd"
+    }, {
+      "name" : "18420-MainThread",
+      "children" : [ {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "cccc45762740baa4",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542539967,
+          "stop" : 1627542539967,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer d632457243de9393ed014787baaf32f0', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '3'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "8e16b8f449887fbe",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542548980,
+          "stop" : 1627542548980,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer d632457243de9393ed014787baaf32f0', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '3'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "1ff6d91421e51dde",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542545976,
+          "stop" : 1627542545976,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer d632457243de9393ed014787baaf32f0', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '3'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "8d971cde122a1104",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542536960,
+          "stop" : 1627542536960,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "8bd6772e85a87771",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542539964,
+          "stop" : 1627542539964,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "c322a4b540b18dc",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542530816,
+          "stop" : 1627542530816,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "cbc7f60f0fc1579d",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542542972,
+          "stop" : 1627542542972,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer d632457243de9393ed014787baaf32f0', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '3'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None'}" ]
+      }, {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "ac34e5dbf3a9929b",
+        "parentUid" : "c1fc8f6857173872ea04308ea42ab181",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627542533867,
+          "stop" : 1627542533867,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'None'}" ]
+      } ],
+      "uid" : "c1fc8f6857173872ea04308ea42ab181"
+    }, {
+      "name" : "440-MainThread",
+      "children" : [ {
+        "name" : "test_edugao[case_data0]",
+        "uid" : "8a9c5acc0d5a0617",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732995679,
+          "stop" : 1628732995766,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'edugao', 'info': 'edugao', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/edugao', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628157076}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_edugao.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "684905cfe9d3ccc6",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733002107,
+          "stop" : 1628733002184,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628151452}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_first_in[case_data0]",
+        "uid" : "a5e31392657681f8",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733025201,
+          "stop" : 1628733025288,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'first_in', 'info': 'first_in', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/first_in', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_first_in.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_youxuantuijian[case_data0]",
+        "uid" : "8295f14d5d30dff6",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733008541,
+          "stop" : 1628733008648,
+          "duration" : 107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'youxuantuijian', 'info': 'youxuantuijian', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/youxuantuijian', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_youxuantuijian.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_first_in[case_data0]",
+        "uid" : "de50d2cd1ad46929",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733022085,
+          "stop" : 1628733022162,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'first_in', 'info': 'first_in', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/first_in', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_first_in.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_edugao[case_data0]",
+        "uid" : "c0da72a792426ac",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732992581,
+          "stop" : 1628732992652,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'edugao', 'info': 'edugao', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/edugao', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628157076}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_edugao.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_vip_info[case_data0]",
+        "uid" : "cebc8ca54eddfd7e",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733029066,
+          "stop" : 1628733029154,
+          "duration" : 88
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'vip_info', 'info': 'vip_info', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/vip_info', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_info.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "40a1adf95e770e89",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732998982,
+          "stop" : 1628732999075,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628151452}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_get_coupon[case_data0]",
+        "uid" : "ed5251ff0d47872f",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628733025319,
+          "stop" : 1628733025657,
+          "duration" : 338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/liuyi/rest79/user/get_coupon', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_get_coupon.json'}, 'cookies': True, 'depend': True, 'file': False, 'headers': {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Connection': 'keep-alive', 'Content-Length': '0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}, 'http_type': 'http', 'info': 'get_coupon', 'parameter': {'ticket': '62dc5c4c18154be3b9c8f3dfcb0fad1e', 'time': 1628646722}, 'parameter_type': 'application/x-www-form-urlencoded', 'rele_depend': 'ticket', 'relevance': 'None', 'request_type': 'POST', 'test_name': 'get_coupon', 'timeout': 20}" ]
+      }, {
+        "name" : "test_acquire[case_data0]",
+        "uid" : "c09e69242cd87fed",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628733015013,
+          "stop" : 1628733015780,
+          "duration" : 767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/liuyi/rest79/pay/acquire', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_acquire.json'}, 'cookies': True, 'depend': True, 'file': False, 'headers': {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}, 'http_type': 'http', 'info': 'acquire', 'parameter': {'bizKey': '6', 'couponId': '', 'goodsId': '769', 'pay': 'alipay', 'returnUrl': '%2Ffind', 'ticket': '62dc5c4c18154be3b9c8f3dfcb0fad1e', 'way': 'alipay_app'}, 'parameter_type': 'application/x-www-form-urlencoded', 'rele_depend': 'ticket', 'relevance': 'None', 'request_type': 'GET', 'test_name': 'acquire', 'timeout': 20}" ]
+      }, {
+        "name" : "test_first_in[case_data0]",
+        "uid" : "8b63ae1d843890be",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733015785,
+          "stop" : 1628733015845,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'first_in', 'info': 'first_in', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/first_in', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_first_in.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_vip_info[case_data0]",
+        "uid" : "d4dc42e5ba880a5f",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733032181,
+          "stop" : 1628733032262,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'vip_info', 'info': 'vip_info', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/vip_info', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_info.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_youxuantuijian[case_data0]",
+        "uid" : "38e5459b0ddb8b1a",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733011660,
+          "stop" : 1628733011725,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'youxuantuijian', 'info': 'youxuantuijian', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/youxuantuijian', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_youxuantuijian.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_youxuantuijian[case_data0]",
+        "uid" : "87559629aa1940fe",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733005432,
+          "stop" : 1628733005511,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'youxuantuijian', 'info': 'youxuantuijian', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/youxuantuijian', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_youxuantuijian.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_edugao[case_data0]",
+        "uid" : "498e722a875c3ff6",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732989474,
+          "stop" : 1628732989537,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'edugao', 'info': 'edugao', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/edugao', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628157076}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_edugao.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_vip_goods_of_yueka[case_data0]",
+        "uid" : "87eeb4769abc0fee",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628733025672,
+          "stop" : 1628733025794,
+          "duration" : 122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'vip_goods_of_yueka', 'info': 'vip_goods_of_yueka', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/user/vip_goods_of_yueka', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer 8b2d411cd28a52f78df06fe6a38994ab', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628646865}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_goods_of_yueka.json'}, 'relevance': 'None', 'depend': False, 'rele_depend': 'ticket'}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "1b78591bfb5b8696",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733005224,
+          "stop" : 1628733005398,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628151452}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_get_alias_by_app_key[case_data0]",
+        "uid" : "14a013ab3b923cb6",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628733014855,
+          "stop" : 1628733015009,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/liuyi/cloud/toggle/magicnana/get_alias_by_app_key', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_get_alias_by_app_key.json'}, 'cookies': True, 'depend': True, 'file': False, 'headers': {'Accept': 'application/json, text/plain, */*', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Authorization': 'Bearer 27bd767f5a3e0e4b3c2ae6d7e8334098', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'Referer': 'http://rest79.652615.com/?appKey=6682119c5d55765c882bd2d9997df2c1&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '6682119c5d55765c882bd2d9997df2c1', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'X-Requested-With': 'com.www.cn.zhimahaojie'}, 'http_type': 'http', 'info': 'get_alias_by_app_key', 'parameter': {'appKey': '6682119c5d55765c882bd2d9997df2c1', 'data': '芝麻好借'}, 'parameter_type': 'application/x-www-form-urlencoded', 'relevance': 'None', 'request_type': 'GET', 'test_name': 'get_alias_by_app_key', 'timeout': 20}" ]
+      }, {
+        "name" : "test_youxuantuijian[case_data0]",
+        "uid" : "c7e95c126cc35ba3",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733014742,
+          "stop" : 1628733014823,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'youxuantuijian', 'info': 'youxuantuijian', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/youxuantuijian', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_youxuantuijian.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_vip_info[case_data0]",
+        "uid" : "f016675520b3f4f3",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733025807,
+          "stop" : 1628733025892,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'vip_info', 'info': 'vip_info', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/vip_info', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_info.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "ae13cf85ed828942",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732995798,
+          "stop" : 1628732995963,
+          "duration" : 165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628151452}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_edugao[case_data0]",
+        "uid" : "1654b006d3ef1e16",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628732986055,
+          "stop" : 1628732986338,
+          "duration" : 283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'edugao', 'info': 'edugao', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/home/edugao', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 9b5f39bae4784a8db7863d4fd3eea20b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': 'fa2f1a6dc9726b1ed50f3a4d430a9e67', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=fa2f1a6dc9726b1ed50f3a4d430a9e67&deviceId=fa2f1a6dc9726b1ed50f3a4d430a9e67&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'time': 1628157076}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_edugao.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_vip_info[case_data0]",
+        "uid" : "f5ee8dc94bf1d375",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733035304,
+          "stop" : 1628733035389,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'vip_info', 'info': 'vip_info', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/vip_info', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_vip_info.json'}, 'relevance': 'None', 'depend': False}" ]
+      }, {
+        "name" : "test_first_in[case_data0]",
+        "uid" : "798470cde5b87a6c",
+        "parentUid" : "020333136fd7b9479933464aa1dc3a75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628733018872,
+          "stop" : 1628733019055,
+          "duration" : 183
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'first_in', 'info': 'first_in', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest76/user/first_in', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '735448165a81e5d026c69c653d5423b7', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 17d58d9224132591710dc7f6a251ce9f', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A', 'Origin': 'http://rest56.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest56.652615.com/?appKey=735448165a81e5d026c69c653d5423b7&deviceId=1B71FD42-A458-4E9A-9A0D-94AE0827AE7A&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'aaa': 'bbb'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_first_in.json'}, 'relevance': 'None', 'depend': False}" ]
+      } ],
+      "uid" : "020333136fd7b9479933464aa1dc3a75"
+    }, {
+      "name" : "9380-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "973d893d05360760",
+        "parentUid" : "03f21579627ece5f7b728b04f62828fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457181952,
+          "stop" : 1627457181952,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "d1563ffc14a665e",
+        "parentUid" : "03f21579627ece5f7b728b04f62828fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457185004,
+          "stop" : 1627457185004,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "247f2d54bf184d53",
+        "parentUid" : "03f21579627ece5f7b728b04f62828fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457175907,
+          "stop" : 1627457175907,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "2b52f5a0d3ecc6bf",
+        "parentUid" : "03f21579627ece5f7b728b04f62828fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457178942,
+          "stop" : 1627457178942,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "03f21579627ece5f7b728b04f62828fe"
+    }, {
+      "name" : "16844-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "89379640ab4b55d6",
+        "parentUid" : "94d186ee462e7b42563f8dfeceaf47ac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457315931,
+          "stop" : 1627457315931,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "8697be2ee3d5c1db",
+        "parentUid" : "94d186ee462e7b42563f8dfeceaf47ac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457306818,
+          "stop" : 1627457306818,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "fb9bf2bd692c87b2",
+        "parentUid" : "94d186ee462e7b42563f8dfeceaf47ac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457309831,
+          "stop" : 1627457309831,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "b0f3be041a417ab6",
+        "parentUid" : "94d186ee462e7b42563f8dfeceaf47ac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627457312918,
+          "stop" : 1627457312918,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "94d186ee462e7b42563f8dfeceaf47ac"
+    }, {
+      "name" : "11896-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "3d76be8801f410d0",
+        "parentUid" : "ecbb756aa6f9f72241493edc2f89a17c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627461345116,
+          "stop" : 1627461363006,
+          "duration" : 17890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '090909090989898979'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "ecbb756aa6f9f72241493edc2f89a17c"
+    }, {
+      "name" : "17132-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "9d1597d1ea70d450",
+        "parentUid" : "e0a8ace844bb96f08787b24ce82d3e5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627457379406,
+          "stop" : 1627457382034,
+          "duration" : 2628
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9898989'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "e0a8ace844bb96f08787b24ce82d3e5d"
+    }, {
+      "name" : "16228-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "b9e72b748959d275",
+        "parentUid" : "c3d76bcd25bf2bb33774c64f04d02425",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627456716408,
+          "stop" : 1627456723540,
+          "duration" : 7132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'uid': '0999'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "c3d76bcd25bf2bb33774c64f04d02425"
+    }, {
+      "name" : "16660-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "d1ea46aead4afe4c",
+        "parentUid" : "a2b3411364e10ba9ba2cd0e556946497",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627457739061,
+          "stop" : 1627457746911,
+          "duration" : 7850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '1302425'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "a2b3411364e10ba9ba2cd0e556946497"
+    }, {
+      "name" : "16828-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "b79799129837def0",
+        "parentUid" : "fbe51f14e8bca31474c2a2d7ccb5269b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627457556986,
+          "stop" : 1627457558194,
+          "duration" : 1208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '909000000'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "fbe51f14e8bca31474c2a2d7ccb5269b"
+    }, {
+      "name" : "14968-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "ccf3c10c4bfba385",
+        "parentUid" : "18c33e73faac16f0413f978a2875a9b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627460069981,
+          "stop" : 1627460069981,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '090909090'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      }, {
+        "name" : "test_api[case_data0]",
+        "uid" : "67ee97a5fae2b58a",
+        "parentUid" : "18c33e73faac16f0413f978a2875a9b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627460018433,
+          "stop" : 1627460018433,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '090909090'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "18c33e73faac16f0413f978a2875a9b3"
+    }, {
+      "name" : "17600-MainThread",
+      "children" : [ {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "938cc0783ffd0a90",
+        "parentUid" : "59eb6399ab6e0367bb4e547f1ee5ebad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627538400519,
+          "stop" : 1627538400519,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer d632457243de9393ed014787baaf32f0', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '3'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'id'}" ]
+      }, {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "363a4b7915dce2e6",
+        "parentUid" : "59eb6399ab6e0367bb4e547f1ee5ebad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627538400516,
+          "stop" : 1627538400516,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'id'}" ]
+      } ],
+      "uid" : "59eb6399ab6e0367bb4e547f1ee5ebad"
+    }, {
+      "name" : "17044-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "9ba15a061aa110ee",
+        "parentUid" : "598d6a3988dc5c62e26c3e711d32731d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627457447161,
+          "stop" : 1627457453492,
+          "duration" : 6331
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '89899999'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "598d6a3988dc5c62e26c3e711d32731d"
+    }, {
+      "name" : "16148-MainThread",
+      "children" : [ {
+        "name" : "test_meirijingxuan[case_data0]",
+        "uid" : "1cc5c6584a71887f",
+        "parentUid" : "dacfdeca5a1e9132417653a5a593fac9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627538446979,
+          "stop" : 1627538446979,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'meirijingxuan', 'info': 'meirijingxuan', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest79/home/meirijingxuan', 'headers': {'Host': 'api.652615.com', 'Origin': 'http://rest79.652615.com', 'X-Liuyi-Device-ID': '4bc8be9552bb0131', 'Authorization': 'Bearer d632457243de9393ed014787baaf32f0', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Accept': 'application/json, text/plain, */*', 'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HRY-AL00a Build/HONORHRY-AL00a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950', 'X-Liuyi-App-Key': '8b2e4cab99b5457870c26f583fc30a6d', 'X-Requested-With': 'com.www.cn.zhimahaojie', 'Referer': 'http://rest79.652615.com/?appKey=8b2e4cab99b5457870c26f583fc30a6d&deviceId=4bc8be9552bb0131&wechat=0?deviceId=4bc8be9552bb0131&appName=%E8%8A%9D%E9%BA%BB%E5%A5%BD%E5%80%9F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '3'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_meirijingxuan.json'}, 'relevance': 'id'}" ]
+      }, {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "5e9be7d446d37afc",
+        "parentUid" : "dacfdeca5a1e9132417653a5a593fac9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627538446974,
+          "stop" : 1627538446974,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'test_name': 'famous_list', 'info': 'famous_list', 'http_type': 'http', 'request_type': 'GET', 'parameter_type': 'application/x-www-form-urlencoded', 'address': '/liuyi/rest72/home/famous_list', 'headers': {'Host': 'api.652615.com', 'X-Liuyi-App-Key': '9bea041e91b1e2406191a1cf861cdaef', 'Accept': 'application/json, text/plain, */*', 'Authorization': 'Bearer 82f2bc880b6f273bcc194832213a085b', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'X-Liuyi-Device-ID': '01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F', 'Origin': 'http://rest72.652615.com', 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148', 'Referer': 'http://rest72.652615.com/?appKey=9bea041e91b1e2406191a1cf861cdaef&deviceId=01CC2A13-B78C-4970-B58C-6AA0E6C9CE2F&wechat=0', 'Connection': 'keep-alive'}, 'cookies': True, 'timeout': 20, 'parameter': {'pageNo': '1', 'pageSize': '5'}, 'file': False, 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'relevance': 'id'}" ]
+      } ],
+      "uid" : "dacfdeca5a1e9132417653a5a593fac9"
+    }, {
+      "name" : "14488-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "5e8add8e8bc3479e",
+        "parentUid" : "1c1d52d306e2127136d18e966db739ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627461234821,
+          "stop" : 1627461241690,
+          "duration" : 6869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '09090909090'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "1c1d52d306e2127136d18e966db739ff"
+    }, {
+      "name" : "16604-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "6d166bde57f9a682",
+        "parentUid" : "f22a57f2385c1223e12e6065e7f03205",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627459448400,
+          "stop" : 1627459455103,
+          "duration" : 6703
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '0909090009'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "f22a57f2385c1223e12e6065e7f03205"
+    }, {
+      "name" : "15208-MainThread",
+      "children" : [ {
+        "name" : "test_famous_list[case_data0]",
+        "uid" : "744968eb83c8bd64",
+        "parentUid" : "8683ebe41f8d18240c3e19a618c19f50",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627353490450,
+          "stop" : 1627353490690,
+          "duration" : 240
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/liuyi/rest72/home/famous_list', 'check': {'check_type': 'json', 'expected_code': 200, 'expected_request': 'result_famous_list.json'}, 'cookies': True, 'file': False, 'headers': {'Authorization': 'Bearer 456df6890aa2b770ab2438d673c1bc81', 'X-Liuyi-App-Key': '56a4e68905234a46f413f7011376d2e0', 'X-Liuyi-Device-ID': '1B71FD42-A458-4E9A-9A0D-94AE0827AE7A'}, 'http_type': 'http', 'info': 'famous_list', 'parameter': {'pageNo': '1', 'pageSize': '5', 'type': 1}, 'parameter_type': 'application/x-www-form-urlencoded', 'relevance': 'aaa', 'request_type': 'GET', 'test_name': 'famous_list', 'timeout': 20}" ]
+      } ],
+      "uid" : "8683ebe41f8d18240c3e19a618c19f50"
+    }, {
+      "name" : "9864-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "37d6e19fefc3aa2",
+        "parentUid" : "73dfa0020f1ba20b6e4d1176ca4dc227",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627459398435,
+          "stop" : 1627459403135,
+          "duration" : 4700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '1302425'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "73dfa0020f1ba20b6e4d1176ca4dc227"
+    }, {
+      "name" : "8540-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "ac6bab50781541c",
+        "parentUid" : "bca92b4dc50c100fe7b0e30dcc0fe65b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627456661506,
+          "stop" : 1627456672007,
+          "duration" : 10501
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '1302425'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "bca92b4dc50c100fe7b0e30dcc0fe65b"
+    }, {
+      "name" : "9364-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "5dc18f17f7e5dbf",
+        "parentUid" : "b63ea0e99eb6674626e4ca3cfba5b4cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627457131117,
+          "stop" : 1627457133182,
+          "duration" : 2065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '9999999'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "b63ea0e99eb6674626e4ca3cfba5b4cb"
+    }, {
+      "name" : "16344-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "52b48a527ea5deac",
+        "parentUid" : "537d176a1ac22041577140396dfa6542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627461324299,
+          "stop" : 1627461330011,
+          "duration" : 5712
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '1302425'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "537d176a1ac22041577140396dfa6542"
+    }, {
+      "name" : "16876-MainThread",
+      "children" : [ {
+        "name" : "test_api[case_data0]",
+        "uid" : "384da6edaa038fb2",
+        "parentUid" : "c5d380c721b9f7cacfc1c539a0a6881c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627459863269,
+          "stop" : 1627459863270,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'address': '/api/generateimage', 'check': {'check_type': 'only_check_status', 'expected_code': 200, 'expected_request': 'result_api.json'}, 'cookies': True, 'file': False, 'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9', 'authority': 'movie.querydata.org', 'cache-control': 'max-age=0', 'method': 'GET', 'path': '/api?id=1302425', 'scheme': 'https', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}, 'http_type': 'https', 'info': 'api', 'parameter': {'id': '1302425'}, 'parameter_type': 'json', 'relevance': 'id', 'request_type': 'GET', 'test_name': 'api', 'timeout': 20}" ]
+      } ],
+      "uid" : "c5d380c721b9f7cacfc1c539a0a6881c"
+    } ],
+    "uid" : "055c09eef49b223ea38d78f546504427"
+  } ]
+}
